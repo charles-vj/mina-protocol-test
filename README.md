@@ -1,1 +1,1 @@
-# mine-protocol-test
+# mina-protocol-test
